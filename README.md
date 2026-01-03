@@ -18,16 +18,10 @@ knowledge becomes his key to freedom.
 
 ## Keywords
 
-- golden age science fiction
-- space travel deception
-- Cold War espionage
-- kidnapping thriller
-- scientific mystery
-- vintage pulp fiction
-- anti-gravity technology
-- 1930s sci-fi
-- detective scientist
-- Russian spy story
+golden age science fiction, space travel deception, Cold War espionage,
+kidnapping thriller, scientific mystery, vintage pulp fiction,
+anti-gravity technology, 1930s sci-fi, detective scientist, Russian spy
+story
 
 ## About This Repository
 
@@ -38,7 +32,7 @@ output formats for the [bookcove](https://bookcove.net) collection.
 
 \- `metadata.json` metadata (title, author, publication info, subjects)  
 \- `<filename>.xml` Book content in XML format  
-\- `css/` Stylesheets for different output formats  
+\- `style.css` Stylesheet with conditionals for HTML and EPUB  
 \- `images/` Illustrations and figures  
 \- `cover.jpg` Cover image  
 \- other subdirectories as needed (i.e. `music/` or `fonts/`)  
