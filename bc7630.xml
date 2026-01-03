@@ -25,23 +25,24 @@
 </figure>
 <lg>
 <l rend='fs14 center'>THE COLOR OF SPACE</l>
-<l rend='fs12 mb10 center'>By Charles R. Tanner</l>
+<l rend='fs12 mt05 center'>By Charles R. Tanner</l>
+<l rend='mb10 center'>Illustrated by Frank R. Paul</l>
 </lg>
 </div>
 </front>
 
 <body>
 
-<milestone rend='space2' rend-epub='none'/>
+<milestone rend='space' rend-epub='none'/>
 
 <quote>
 
 <lg>
-<l rend='center lineabove fs09'>FIRST PRIZE $150.00 Awarded to</l>
+<l rend='center fs09'>FIRST PRIZE $150.00 Awarded to</l>
 <l rend='center'>THE COLOR OF SPACE</l>
 </lg>
 
-<p rend='si'>In awarding Mr. Tanner the first prize of $150.00 in our
+<p rend='it'>In awarding Mr. Tanner the first prize of $150.00 in our
 very interesting cover contest, we were impressed, in the
 first place, with the excellent way in which he developed
 his story. It is a pity that too few science fiction authors
@@ -49,29 +50,29 @@ consider the story or fiction element of their work to be
 important enough to demand a great deal of careful thought
 and preparation.</p>
 
-<p rend='si'>We want emphatically to encourage these writers, who have
+<p rend='it'>We want emphatically to encourage these writers, who have
 the knack of developing an interesting story, one that
 carries you breathlessly through its incidents and comes
 to a natural climax.</p>
 
-<p rend='si'>Mr. Tanner further was not content to take the cover at
+<p rend='it'>Mr. Tanner further was not content to take the cover at
 its face value, but he tried to analyze its meaning and
 penetrate its possible significance. This he does in a
 very convincing manner and we think our readers will agree
 that the startling conclusion to his story was foreshadowed
 by what went on before.</p>
 
-<p rend='si'>Mr. Tanner is, we believe, a newcomer to science fiction;
+<p rend='it'>Mr. Tanner is, we believe, a newcomer to science fiction;
 yet by the exercise of his splendid powers of observation
 and facility for developing incidents, he can become a
 writer of no mean excellence.</p>
 
 </quote>
 
-<milestone rend='stars' rend-epub='none'/>
+<milestone rend='space' rend-epub='none'/>
 
 <lg>
-<l rend='center lineabove'>THE COLOR OF SPACE</l>
+<l rend='center fs12'>THE COLOR OF SPACE</l>
 </lg>
 
 <p>Dr. Henshaw faced his captor wrathfully.</p>
