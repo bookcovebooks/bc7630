@@ -23,7 +23,12 @@ p { text-indent: 1.15em; margin-top: 0.1em; margin-bottom: 0.1em;
 
 /* for transcriber's note */
 .tn { border-top: 1px solid #999; }
-.tn p { text-indent: 0; }
+.tn p { text-indent: 0; font-size: 0.9em; }
 
+/* @epub */
+.lineabove { border-top: 1px solid #999; }
+/* @epub */
 .lineabove { padding-top: 1em; border-top: 1px solid #999; }
+
+/* @both */
 .si { font-style: italic; font-size: 0.9em; }
